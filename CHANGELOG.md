@@ -1,3 +1,9 @@
+## [1.4.0](https://github.com/todayes/assets-hotel/compare/v1.3.0...v1.4.0) (2025-07-05)
+
+### Features
+
+* use gh_token ([c410014](https://github.com/todayes/assets-hotel/commit/c410014e65bef418e7c65f2bf158065e88b50bbd))
+
 ## [1.3.0](https://github.com/todayes/assets-hotel/compare/v1.2.0...v1.3.0) (2025-07-05)
 
 ### Features
