@@ -1,3 +1,9 @@
+## [1.3.0](https://github.com/todayes/assets-hotel/compare/v1.2.0...v1.3.0) (2025-07-05)
+
+### Features
+
+* remove node_auth_token env ([8c96de2](https://github.com/todayes/assets-hotel/commit/8c96de2b1bb244e587e911bb6b62e08ee8e04949))
+
 ## [1.2.0](https://github.com/todayes/assets-hotel/compare/v1.1.0...v1.2.0) (2025-07-05)
 
 ### Features
