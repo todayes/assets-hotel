@@ -7,13 +7,13 @@
     "RBX",
     "typescript"
   ],
-  "homepage": "https://github.com/todayes/assets-todayes",
+  "homepage": "https://github.com/todayes/assets-hotel",
   "bugs": {
-    "url": "https://github.com/todayes/assets-todayes/issues"
+    "url": "https://github.com/todayes/assets-hotel/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/todayes/assets-todayes.git"
+    "url": "git+https://github.com/todayes/assets-hotel.git"
   },
   "license": "ISC",
   "author": "",
