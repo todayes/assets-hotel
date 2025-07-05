@@ -69,6 +69,6 @@ jobs:
         run: pnpm run build
       - name: Release
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_CI_CD }}
-          NPM_TOKEN: ${{ secrets.GH_CI_CD }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NPM_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: pnpm run release
