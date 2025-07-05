@@ -1,3 +1,9 @@
+## [1.0.7](https://github.com/todayes/assets-hotel/compare/v1.0.6...v1.0.7) (2025-07-05)
+
+### Bug Fixes
+
+* add env ([9c8deac](https://github.com/todayes/assets-hotel/commit/9c8deac1cd989886540bac74022212f477803a54))
+
 ## [1.0.6](https://github.com/todayes/assets-hotel/compare/v1.0.5...v1.0.6) (2025-07-05)
 
 ### Bug Fixes
