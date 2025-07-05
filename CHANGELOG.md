@@ -1,3 +1,9 @@
+## [1.2.0](https://github.com/todayes/assets-hotel/compare/v1.1.0...v1.2.0) (2025-07-05)
+
+### Features
+
+* move to local env ([6dd394f](https://github.com/todayes/assets-hotel/commit/6dd394fe39cd2c1e00e3809f360de9a759acd166))
+
 ## [1.1.0](https://github.com/todayes/assets-hotel/compare/v1.0.7...v1.1.0) (2025-07-05)
 
 ### Features
