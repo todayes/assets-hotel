@@ -1,3 +1,9 @@
+## [1.0.5](https://github.com/todayes/assets-hotel/compare/v1.0.4...v1.0.5) (2025-07-05)
+
+### Bug Fixes
+
+* release pipe ([e3d9726](https://github.com/todayes/assets-hotel/commit/e3d97263d48b6a8b1afaa294841a5636a901597a))
+
 ## [1.0.4](https://github.com/todayes/assets-hotel/compare/v1.0.3...v1.0.4) (2025-07-05)
 
 ### Bug Fixes
