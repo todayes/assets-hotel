@@ -1,0 +1,4 @@
+rm -rf ./src/_jampack
+npm run compress
+npm run generate-icon-types
+git add -A
