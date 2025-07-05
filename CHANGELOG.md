@@ -1,3 +1,9 @@
+## [1.0.6](https://github.com/todayes/assets-hotel/compare/v1.0.5...v1.0.6) (2025-07-05)
+
+### Bug Fixes
+
+* add user ([4519bef](https://github.com/todayes/assets-hotel/commit/4519befae3a716c2dffa129e42f40ebbc950efb2))
+
 ## [1.0.5](https://github.com/todayes/assets-hotel/compare/v1.0.4...v1.0.5) (2025-07-05)
 
 ### Bug Fixes
