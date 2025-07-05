@@ -1,3 +1,11 @@
+## [1.0.1](https://github.com/todayes/assets-hotel/compare/v1.0.0...v1.0.1) (2025-07-05)
+
+### Bug Fixes
+
+* add env for fix publish ([3dc6b5a](https://github.com/todayes/assets-hotel/commit/3dc6b5a16720190c3ffb12cb34d4244cd20a16f5))
+* add npm env for fix publish ([b7eaeca](https://github.com/todayes/assets-hotel/commit/b7eaeca4f9fe63093fe342be4c840f1bcef3144e))
+* publish pkg ([95fdc1b](https://github.com/todayes/assets-hotel/commit/95fdc1b8f70e7fda084c21f64113f8eb1a7fcf33))
+
 ## 1.0.0 (2025-07-05)
 
 ### Features
