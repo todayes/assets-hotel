@@ -15,9 +15,6 @@ permissions:
 
 env:
   HUSKY: 0
-  GITHUB_TOKEN: ${{ secrets.GH_CI_CD }}
-  NODE_AUTH_TOKEN: ${{ secrets.GH_CI_CD }}
-  NPM_TOKEN: ${{ secrets.GH_CI_CD }}
 
 jobs:
   setup:
@@ -71,4 +68,8 @@ jobs:
       - name: Build
         run: pnpm run build
       - name: Release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_CI_CD }}
+          NODE_AUTH_TOKEN: ${{ secrets.GH_CI_CD }}
+          NPM_TOKEN: ${{ secrets.GH_CI_CD }}
         run: pnpm run release
