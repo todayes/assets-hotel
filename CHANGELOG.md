@@ -1,3 +1,9 @@
+## [1.1.0](https://github.com/todayes/assets-hotel/compare/v1.0.7...v1.1.0) (2025-07-05)
+
+### Features
+
+* remove local env ([d9dc48e](https://github.com/todayes/assets-hotel/commit/d9dc48e506b2e6b13022e8222805ba802823855e))
+
 ## [1.0.7](https://github.com/todayes/assets-hotel/compare/v1.0.6...v1.0.7) (2025-07-05)
 
 ### Bug Fixes
