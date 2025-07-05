@@ -1,3 +1,9 @@
+## [1.0.3](https://github.com/todayes/assets-hotel/compare/v1.0.2...v1.0.3) (2025-07-05)
+
+### Bug Fixes
+
+* gh env for fix publish ([f6fbab5](https://github.com/todayes/assets-hotel/commit/f6fbab5664c1e4cda8a1dba9852e985869282ac0))
+
 ## [1.0.2](https://github.com/todayes/assets-hotel/compare/v1.0.1...v1.0.2) (2025-07-05)
 
 ### Bug Fixes
