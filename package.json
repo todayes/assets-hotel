@@ -1,6 +1,7 @@
 {
   "name": "@todayes/assets-hotel",
   "version": "1.0.4",
+  "private": false,
   "description": "Assets to serve by CDN",
   "keywords": [
     "front-end",

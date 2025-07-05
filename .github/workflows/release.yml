@@ -17,7 +17,7 @@ env:
   HUSKY: 0
   GITHUB_TOKEN: ${{ secrets.GH_CI_CD }}
   NODE_AUTH_TOKEN: ${{ secrets.GH_CI_CD }}
-  NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+  NPM_TOKEN: ${{ secrets.GH_CI_CD }}
 
 jobs:
   setup:
