@@ -1,3 +1,9 @@
+## [1.6.0](https://github.com/todayes/assets-hotel/compare/v1.5.0...v1.6.0) (2025-07-09)
+
+### Features
+
+* update permissions ([29ee0dd](https://github.com/todayes/assets-hotel/commit/29ee0dd292bf566f715bc913b32b09dcd94c9087))
+
 ## [1.5.0](https://github.com/todayes/assets-hotel/compare/v1.4.0...v1.5.0) (2025-07-06)
 
 ### Features
