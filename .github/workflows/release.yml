@@ -21,4 +21,6 @@ jobs:
     uses: rodbe-io/shared-workflows/.github/workflows/release.yaml@main
     with:
       enable-test-unit: true
-    secrets: inherit
+    secrets:
+      NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
