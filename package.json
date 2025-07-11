@@ -2,7 +2,7 @@
   "name": "@todayes/assets-hotel",
   "version": "1.7.2",
   "private": false,
-  "description": "Assets to serve by CDN..",
+  "description": "Assets to serve by CDN",
   "keywords": [
     "front-end",
     "RBX",
