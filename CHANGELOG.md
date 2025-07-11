@@ -1,3 +1,13 @@
+## [1.7.0](https://github.com/todayes/assets-hotel/compare/v1.6.0...v1.7.0) (2025-07-11)
+
+### Features
+
+* call reusable workflow ([0f0c0c5](https://github.com/todayes/assets-hotel/commit/0f0c0c59e27d2be5c6e16a01b13f764e3a41c5fb))
+
+### Bug Fixes
+
+* set secrets ([6816250](https://github.com/todayes/assets-hotel/commit/6816250328db65e1718544bb9bf4b76eb68fa6d7))
+
 ## [1.6.0](https://github.com/todayes/assets-hotel/compare/v1.5.0...v1.6.0) (2025-07-09)
 
 ### Features
