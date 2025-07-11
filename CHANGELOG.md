@@ -1,3 +1,9 @@
+## [1.7.3](https://github.com/todayes/assets-hotel/compare/v1.7.2...v1.7.3) (2025-07-11)
+
+### Bug Fixes
+
+* trigger pipe ([96816e2](https://github.com/todayes/assets-hotel/commit/96816e2e955d7481d957b05bdc958c892f084f48))
+
 ## [1.7.2](https://github.com/todayes/assets-hotel/compare/v1.7.1...v1.7.2) (2025-07-11)
 
 ### Bug Fixes
