@@ -1,3 +1,9 @@
+## [1.7.8](https://github.com/todayes/assets-hotel/compare/v1.7.7...v1.7.8) (2025-07-12)
+
+### Bug Fixes
+
+* npmrc ([9a387f4](https://github.com/todayes/assets-hotel/commit/9a387f46e25bd811686027b115ff57835670ef89))
+
 ## [1.7.7](https://github.com/todayes/assets-hotel/compare/v1.7.6...v1.7.7) (2025-07-12)
 
 ### Bug Fixes
