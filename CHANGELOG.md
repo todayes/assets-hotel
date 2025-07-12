@@ -1,3 +1,9 @@
+## [1.7.4](https://github.com/todayes/assets-hotel/compare/v1.7.3...v1.7.4) (2025-07-12)
+
+### Bug Fixes
+
+* update secret ([d883c14](https://github.com/todayes/assets-hotel/commit/d883c140d8673c688ecd95513932d5275d36804b))
+
 ## [1.7.3](https://github.com/todayes/assets-hotel/compare/v1.7.2...v1.7.3) (2025-07-11)
 
 ### Bug Fixes
