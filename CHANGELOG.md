@@ -1,3 +1,10 @@
+## [1.8.1](https://github.com/todayes/assets-hotel/compare/v1.8.0...v1.8.1) (2025-07-12)
+
+### Bug Fixes
+
+* set needed permissions ([29d6843](https://github.com/todayes/assets-hotel/commit/29d6843e8a73a4775288b5aa2c16a5e8477c8691))
+* trigger pipe ([83034ee](https://github.com/todayes/assets-hotel/commit/83034ee4438977410e5a60834822b28480b090cd))
+
 ## [1.8.0](https://github.com/todayes/assets-hotel/compare/v1.7.8...v1.8.0) (2025-07-12)
 
 ### Features
