@@ -1,3 +1,9 @@
+## [1.7.7](https://github.com/todayes/assets-hotel/compare/v1.7.6...v1.7.7) (2025-07-12)
+
+### Bug Fixes
+
+* use github_token ([9dbca56](https://github.com/todayes/assets-hotel/commit/9dbca568e261a327802feb0dfcce58514d685863))
+
 ## [1.7.6](https://github.com/todayes/assets-hotel/compare/v1.7.5...v1.7.6) (2025-07-12)
 
 ### Bug Fixes
