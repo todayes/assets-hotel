@@ -1,3 +1,9 @@
+## [1.8.0](https://github.com/todayes/assets-hotel/compare/v1.7.8...v1.8.0) (2025-07-12)
+
+### Features
+
+* set NPM_REGISTRY_TOKEN secret ([355e9ab](https://github.com/todayes/assets-hotel/commit/355e9ab630be3281160c536cd82f1a61b771d28c))
+
 ## [1.7.8](https://github.com/todayes/assets-hotel/compare/v1.7.7...v1.7.8) (2025-07-12)
 
 ### Bug Fixes
