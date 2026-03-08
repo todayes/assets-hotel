@@ -22,6 +22,5 @@ jobs:
     with:
       enable-test-unit: true
     secrets:
-      NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       NPM_REGISTRY_TOKEN: ${{ secrets.GITHUB_TOKEN }}
