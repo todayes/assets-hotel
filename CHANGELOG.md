@@ -1,3 +1,9 @@
+## [1.9.0](https://github.com/todayes/assets-hotel/compare/v1.8.1...v1.9.0) (2026-03-08)
+
+### Features
+
+* add logo + update user color ([907bbb2](https://github.com/todayes/assets-hotel/commit/907bbb2e4c8858036253be327d13cef7ef6d3c25))
+
 ## [1.8.1](https://github.com/todayes/assets-hotel/compare/v1.8.0...v1.8.1) (2025-07-12)
 
 ### Bug Fixes
